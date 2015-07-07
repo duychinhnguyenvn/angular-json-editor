@@ -77,7 +77,7 @@ Or full editor directive:
 ```html
 <div json-editor model="people" options="options" style="height: 400px;"/>
 ```
-### Licence
+# Licence
 The MIT License (MIT)
 
 Copyright (c) 2014 Filippo Oretti, Dario Andrei

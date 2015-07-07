@@ -1,5 +1,5 @@
 # Angular JSON Editor Directives
-Angular.js directive for Jos de Jong's JSON Editor. Website: http://angular-json-editor.oqbox.com
+Angular.js directive for Jos de Jong's JSON Editor. Website: http://angularjsoneditor.oqbox.com
 <img alt="json editor" src="https://raw.github.com/josdejong/jsoneditor/master/misc/jsoneditor.png">
 ## Requirements
 - [Bootstrap](http://getbootstrap.com/)
@@ -41,7 +41,7 @@ Finally, add the directive to your html:
 <div style="height: 400px;" json-editor type="text" model="obj" options="options"/>
 ```
 ## Demo
-Link http://angular-json-editor.oqbox.com/
+Link http://angularjsoneditor.oqbox.com
 ### Sample code
 ```javascript
 myAppModule.controller('MyController', [ '$scope', function($scope) {
